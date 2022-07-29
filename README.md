@@ -1,4 +1,4 @@
-# HAMOYE DATA SCIENCE STAGE A QUIZ
+# Hamoye Data Science Stage A Quiz
 
 This is the submission of my assessment quiz of the Hamoye Data Science Internship Stage A.
 
